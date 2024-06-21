@@ -1,5 +1,5 @@
 # TEG using phase4 network to analysis
-# 2021/2/1
+# 
 # Yuxiao
 
 import pandas as pd
