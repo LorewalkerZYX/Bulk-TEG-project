@@ -1,5 +1,5 @@
 # TEG using phase4 network to analysis
-# 
+# Data available on https://github.com/LorewalkerZYX/Bulk-TEG-project.git
 # Yuxiao
 
 import pandas as pd
