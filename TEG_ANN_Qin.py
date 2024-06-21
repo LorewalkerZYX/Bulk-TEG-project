@@ -1,6 +1,5 @@
 # Conventional Bulk TEG ANN training
 # Data available on https://github.com/LorewalkerZYX/Bulk-TEG-project.git
-# Yuxiao Zhu
 
 import pandas as pd
 import math
